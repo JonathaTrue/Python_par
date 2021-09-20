@@ -1,7 +1,7 @@
 Atividade Em python
 
 # MIT License
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/JonathaTrue/PARADIGMAS_python/blob/main/LICENSE) 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/JonathaTrue/Python_par/blob/main/LICENSE) 
 
 # Sobre o projeto
 
